@@ -2,7 +2,7 @@
 ***
 #### Scanf()
 
-```
+```bash
 
 (gdb) disassemble main
 Dump of assembler code for function main:
@@ -225,7 +225,7 @@ Dump of assembler code for function main:
 End of assembler dump.
 ```
 
-```
+```bash
 lea    -0x4(%rbp),%rax
 output :
 C:\Users\RaminFP>irb
@@ -236,7 +236,7 @@ irb(main):002:0>
 
 You see rbp same with rax (2424348)
 
-```
+```bash
 (gdb) info r
 rax            0x24fe1c 2424348
 rbx            0x40115b 4198747
