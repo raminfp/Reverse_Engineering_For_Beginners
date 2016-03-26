@@ -1,6 +1,6 @@
-# [+] Lesson 10
+# [+] Lesson 11
 ***
-#### Ternary conditional operator (True , False)
+#### Switch , Case
 
 ```bash
 (gdb) disassemble main
